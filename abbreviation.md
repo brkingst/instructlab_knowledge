@@ -8,7 +8,7 @@
 | ACQ_NM  		       | Acquisition Name                   |
 | ActvSpce 		       | Active Space                       |
 | AHR     		       | Author                             |
-| RATNLAREA		       | Rationale_Area                     |
+| RATNLAREA		       | Rationale Area                     |
 | CRK_FT   		       | Cork Fulltime                      |
 | DUB_PLNE 		       | Dublin Plane                       |
 | IRE_RTO 		       | Ireland Ratio                      |
