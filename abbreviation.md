@@ -5,3 +5,10 @@
 | DSPLB_ST  	       | Disposable Status                  |
 | Crdt_dt 		       | Credit Date                        |
 | CdtrAgt 		       | Creditor Agent                     |
+| ACQ_NM  		       | Acquisition Name                   |
+| ActvSpce 		       | Active Space                       |
+| AHR     		       | Author                             |
+| RATNLAREA		       | Rationale_Area                     |
+| CRK_FT   		       | Cork Fulltime                      |
+| DUB_PLNE 		       | Dublin Plane                       |
+| IRE_RTO 		       | Ireland Ratio                      |
