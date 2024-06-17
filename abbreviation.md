@@ -21,6 +21,6 @@
 | RFSD     		       | Refused                            |
 | RSTRNT   		       | Restaurant                         |
 | SnwFl   		       | Snow Fall                          |
-| IRE_RTO 		       | Ireland Ratio                      |
-| IRE_RTO 		       | Ireland Ratio                      |
-| IRE_RTO 		       | Ireland Ratio                      |
+| TNGE     		       | Tonnage                            |
+| wo		             | Without                            |
+| TFC     		       | Traffic                            |
