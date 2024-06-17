@@ -15,12 +15,12 @@
 | antqe   		       | Antique                            |
 | ACT     		       | Action                             |
 | TMZON   		       | Time Zone                          |
-| MDM     		       | Maiden                             |
+| MDN     		       | Maiden                             |
 | MnPwr 		         | Man Power                          |
 | PPR     		       | Paper                              |
-| IRE_RTO 		       | Ireland Ratio                      |
-| IRE_RTO 		       | Ireland Ratio                      |
-| IRE_RTO 		       | Ireland Ratio                      |
+| RFSD     		       | Refused                            |
+| RSTRNT   		       | Restaurant                         |
+| SnwFl   		       | Snow Fall                          |
 | IRE_RTO 		       | Ireland Ratio                      |
 | IRE_RTO 		       | Ireland Ratio                      |
 | IRE_RTO 		       | Ireland Ratio                      |
