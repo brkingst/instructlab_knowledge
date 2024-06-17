@@ -11,4 +11,16 @@
 | RATNLAREA		       | Rationale Area                     |
 | CRK_FT   		       | Cork Fulltime                      |
 | DUB_PLNE 		       | Dublin Plane                       |
+| VRSNG    		       | Versioning                         |
+| antqe   		       | Antique                            |
+| ACT     		       | Action                             |
+| TMZON   		       | Time Zone                          |
+| MDM     		       | Maiden                             |
+| MnPwr 		         | Man Power                          |
+| PPR     		       | Paper                              |
+| IRE_RTO 		       | Ireland Ratio                      |
+| IRE_RTO 		       | Ireland Ratio                      |
+| IRE_RTO 		       | Ireland Ratio                      |
+| IRE_RTO 		       | Ireland Ratio                      |
+| IRE_RTO 		       | Ireland Ratio                      |
 | IRE_RTO 		       | Ireland Ratio                      |
